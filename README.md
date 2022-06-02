@@ -1,4 +1,6 @@
 # sql
  Projetos em SQL
  
- - Projetos realizados para trabalhos de faculdade
+ - Pequenos projetos realizados para trabalhos de faculdade.
+   - Banco de dados de uma lanchonete fictícia
+   - Banco de dados de vinícola fictícia
